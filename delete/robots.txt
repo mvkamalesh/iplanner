@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: http://www.adecco.co.in/sitemap-xml.xml
