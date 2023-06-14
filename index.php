@@ -262,23 +262,23 @@
                       <img class="go-to-top pos-absolute " style="bottom:0px" src="data:image/png;base64,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" />
                     </div>
                   </div>
-                  <!-- Marquee -->
-                  <div class="marquee ">
-                    <div class="banner pos-fixed px-6 pt-2" style="bottom:0;z-index:100">
-                      <p class="content">
-                        <span>Welcome to iplanner | Direction in the World of possibility withdrawal visit - <a href="#">PF Help Centre</a> | </span>
-                        <span>For all other associate queries, write to us at <a href="mailto:info@iplannerinc.com">info@iplannerinc.com</a>
-                        </span>
-                      </p>
-                    </div>
-                  </div>
-                  <!-- Marquee Ends -->
-                  <!-- Footer --> <?php include 'footer.php';?>
-                  <!-- Footer Ends -->
                 </div>
               </div>
             </div>
           </div>
+          <!-- Marquee -->
+          <div class="marquee ">
+            <div class="banner pos-fixed px-6 pt-2" style="bottom:0;z-index:100">
+              <p class="content">
+                <span>Welcome to iplanner | Direction in the World of possibility withdrawal visit - <a href="#">PF Help Centre</a> | </span>
+                <span>For all other associate queries, write to us at <a href="mailto:info@iplannerinc.com">info@iplannerinc.com</a>
+                </span>
+              </p>
+            </div>
+          </div>
+          <!-- Marquee Ends -->
+          <!-- Footer --> <?php include 'footer.php';?>
+          <!-- Footer Ends -->
         </div>
       </div>
     </div>

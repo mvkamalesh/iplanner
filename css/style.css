@@ -1,17 +1,17 @@
 @font-face {
   font-family: HouschkaRoundedBold;
   
-  src: url(/ip/fonts/houschkarounded-bold-webfont-1e7294a8faf5b1edce47864458c42fd8.ttf)
+  src: url(/fonts/houschkarounded-bold-webfont-1e7294a8faf5b1edce47864458c42fd8.ttf)
 }
 
 @font-face {
   font-family: HouschkaRoundedDemiBold;
-  src: url(/ip/fonts/houschkarounded-demibold-webfont-a63613e04b084e99edb6d5114dde076a.ttf)
+  src: url(/fonts/houschkarounded-demibold-webfont-a63613e04b084e99edb6d5114dde076a.ttf)
 }
 
 @font-face {
   font-family: HouschkaRounded;
-  src: url(/ip/fonts/houschkarounded-medium-webfont-36bad8ba631848c3982922ff2a666a3f.ttf)
+  src: url(/fonts/houschkarounded-medium-webfont-36bad8ba631848c3982922ff2a666a3f.ttf)
 }
 
 body,
@@ -1243,3 +1243,98 @@ body {
     transform: translateX(-100%)
   }
 }
+
+
+
+/* */
+.adviceDetailsSection {margin-top: 40px; padding-bottom: 40px;}
+
+.adviceDetailsSection .ant-row  { 
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center;
+} 
+
+.ant-row:after,.ant-row:before { 
+    content: ""; 
+    display: table;
+} 
+
+.ant-row + .ant-row:before ,.ant-row:after { 
+    clear: both;
+} 
+
+
+.ant-col-lg-16,.ant-col-md-24,.ant-col-sm-24,.ant-col-xs-24 { 
+    padding-left: 0; 
+    padding-right: 0; 
+    position: relative;
+} 
+
+.ant-col-xs-24 { 
+    display: block; 
+    flex:  0 0 auto; 
+    float:  left;
+    box-sizing: border-box; 
+    width: 100%;
+} 
+
+.my-1 { 
+    margin-bottom: .25rem!important; 
+    margin-top: .25rem!important;
+} 
+
+.heading { 
+    font-size:  38px;
+    color: #000; 
+    font-stretch: normal; 
+    font-style: normal; 
+    font-weight: 700; 
+    letter-spacing: normal; 
+    line-height: 1.25; 
+    text-align: left;
+} 
+
+.adviceDetailsSection .ant-row .heading  { 
+    align-items: center; 
+    display: flex;
+} 
+
+.adviceDetailsSection .ant-row .heading h1  { 
+    color: #da291c; 
+    font-size: 2rem; 
+    font-weight: 600; 
+    margin-bottom: 0;
+    padding-bottom: 20px; 
+    text-align: left;
+} 
+
+.adviceDetailsSection .details p  { 
+    font-size: 1.2rem;
+} 
+
+.adviceDetailsSection h2  { 
+    color: #da291c !important;
+} 
+
+.careerAdviceBannerSection .hero-section {
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 88px;
+  top: 0;
+}
+
+.hero-section{
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  height: 400px;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;  
+  margin-top: 97px;
+}
+.content-section h1 {font-size: 28px; font-weight: 800; color: #fff;}
+.custome-breadcrumb {padding: 30px 3rem 0 3rem}
