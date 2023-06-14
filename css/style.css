@@ -1,17 +1,17 @@
 @font-face {
   font-family: HouschkaRoundedBold;
   
-  src: url(/fonts/houschkarounded-bold-webfont-1e7294a8faf5b1edce47864458c42fd8.ttf)
+  src: url(/iplanner/fonts/houschkarounded-bold-webfont-1e7294a8faf5b1edce47864458c42fd8.ttf)
 }
 
 @font-face {
   font-family: HouschkaRoundedDemiBold;
-  src: url(/fonts/houschkarounded-demibold-webfont-a63613e04b084e99edb6d5114dde076a.ttf)
+  src: url(/iplanner/fonts/houschkarounded-demibold-webfont-a63613e04b084e99edb6d5114dde076a.ttf)
 }
 
 @font-face {
   font-family: HouschkaRounded;
-  src: url(/fonts/houschkarounded-medium-webfont-36bad8ba631848c3982922ff2a666a3f.ttf)
+  src: url(/iplanner/fonts/houschkarounded-medium-webfont-36bad8ba631848c3982922ff2a666a3f.ttf)
 }
 
 body,
